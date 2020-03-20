@@ -1,0 +1,61 @@
+body {
+    margin: 20px;
+    padding: 2px;
+                
+}
+.jumbotron-fluid {
+    background-color: seashell;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.main {
+    background-color: rgba(0, 0, 0, 0.7) !important;
+    }
+.main .navbar-brand{
+    color: white;
+}
+.main .navbar-nav li .nav-link {
+    color: white;
+}
+.pic img {
+    width: 670px;
+}
+.pic-vertical img{
+    width: 33%;
+}
+.text {
+    padding: 5;
+    margin: 5;
+    padding-bottom: 6;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.card-group {
+    width: inherit;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.image-link {
+    padding-top: 10;
+    padding-bottom: 10;
+    padding-left: 10;
+    width: 200px;
+    height: 200px;
+    font-family: 'Nanum Gothic', sans-serif;
+    text-align: center;
+}
+.form-contact {
+    padding-top: 10px;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.text-center {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.fa:hover {
+  opacity: 0.6;
+}
